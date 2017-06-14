@@ -4,6 +4,10 @@ body {
 	padding: 0px;
 }
 
+.bodypadding {
+	padding: 0px 0px 140px 0px;
+}
+
 .ZacharySaltzman {
 	background-color: #4aaaa5;
 	color: white;
@@ -214,6 +218,11 @@ textarea {
 	color: #ffffff;
 	background: #4aaaa5;
 	padding: 3px;
+}
+
+.container-fluid {
+	margin: 0px;
+	padding: 0px;
 }
 
 @media screen and (max-width: 1000px) {
