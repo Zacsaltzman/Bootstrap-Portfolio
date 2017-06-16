@@ -149,7 +149,7 @@ textarea {
 	position: absolute;
 	bottom: 5px;
 	height: 25px;
-	width: 300px;
+	width: 255px;
 	text-align: center;
 	color: #ffffff;
 	background: #4aaaa5;
@@ -165,7 +165,7 @@ textarea {
 	position: absolute;
 	bottom: 5px;
 	height: 25px;
-	width: 300px;
+	width: 255px;
 	text-align: center;
 	color: #ffffff;
 	background: #4aaaa5;
@@ -181,7 +181,7 @@ textarea {
 	position: absolute;
 	bottom: 5px;
 	height: 25px;
-	width: 300px;
+	width: 255px;
 	text-align: center;
 	color: #ffffff;
 	background: #4aaaa5;
@@ -197,7 +197,7 @@ textarea {
 	position: absolute;
 	bottom: 5px;
 	height: 25px;
-	width: 300px;
+	width: 255px;
 	text-align: center;
 	color: #ffffff;
 	background: #4aaaa5;
@@ -213,7 +213,7 @@ textarea {
 	position: absolute;
 	bottom: 5px;
 	height: 25px;
-	width: 300px;
+	width: 255px;
 	text-align: center;
 	color: #ffffff;
 	background: #4aaaa5;
@@ -232,5 +232,81 @@ textarea {
 		border-width: 2px;
 		border-color: #ddd;
 		height: 220px;
+	}
+}
+
+@media screen and (max-width: 991px) {
+	.stock1 {
+		width: 100%;
+	}
+	.Hangman {
+		position: absolute;
+		bottom: 5px;
+		height: 25px;
+		width: 100%;
+		text-align: center;
+		color: #ffffff;
+		background: #4aaaa5;
+		padding: 3px;
+	}
+
+	.stock2 {
+		width: 100%;
+	}
+
+	.RPG {
+		position: absolute;
+		bottom: 5px;
+		height: 25px;
+		width: 100%;
+		text-align: center;
+		color: #ffffff;
+		background: #4aaaa5;
+		padding: 3px;
+	}
+
+	.stock3 {
+		width: 100%;
+	}
+
+	.Trivia {
+		position: absolute;
+		bottom: 5px;
+		height: 25px;
+		width: 100%;
+		text-align: center;
+		color: #ffffff;
+		background: #4aaaa5;
+		padding: 3px;
+	}
+
+	.stock4 {
+		width: 100%;
+	}
+
+	.Rutgers {
+		position: absolute;
+		bottom: 5px;
+		height: 25px;
+		width: 100%;
+		text-align: center;
+		color: #ffffff;
+		background: #4aaaa5;
+		padding: 3px;
+	}
+
+	.stock5 {
+		width: 100%;
+	}
+
+	.RPS {
+		position: absolute;
+		bottom: 5px;
+		height: 25px;
+		width: 100%;
+		text-align: center;
+		color: #ffffff;
+		background: #4aaaa5;
+		padding: 3px;
 	}
 }
